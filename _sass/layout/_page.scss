@@ -6,6 +6,7 @@
   @include container;
   @include clearfix;
   margin-top: 2em;
+  min-height: 100vh;               // keeps the footer below the screen on short pages
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
