@@ -1,33 +1,20 @@
 ---
 permalink: /
-title: "About me"
+title: "Zakir Rzazade"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-[Write 2–3 sentences introducing yourself: your current position, department and university, and the broad field you work in.]
+Hi!
 
-[Write a short paragraph on your research agenda: the main questions you study, the methods you use (e.g. survey experiments, quantitative analysis), and the regions or cases you focus on.]
+I am a doctoral student and researcher at Charles University, Faculty of Social Sciences, and at [Peace Research Center Prague](https://www.prcprague.cz/zakir-rzazade) (PRCP). At PRCP, I work as part of the research group, [Experimental Lab for International Security Studies](https://www.eliss-lab.eu/our-team) (ELISS). I am also part of research projects, [INTERFER](https://www.interfer-project.eu/work-packages), studying foreign interference, and [MICROCODE](https://www.erc-microcode.eu/research-team), exploring microfoundations of collective defense. In addition, I co-lead the working group on Peace and Emerging Technologies within [Peace Research Community Europe](https://www.peaceresearchnetwork.eu/research/wg4-peace-emerging-technologies) (PEACE Network), supported by [COST](https://www.cost.eu/) (European Cooperation in Science and Technology).
 
-Research interests
-======
-* [Research interest 1]
-* [Research interest 2]
-* [Research interest 3]
+My research focuses on emerging & military technologies, arms politics, and public opinion. My doctoral research focuses on how military technologies are perceived and the symbolic and signaling roles they assume in the context of arms transfers and security affairs. I utilize elite and public opinion surveys, as well as survey experiments, to explore these topics.
 
-Current projects
-======
-**[Project title 1]**: [One or two sentences describing the project and its data or method.]
+LinkedIn: [Zakir Rzazade](https://linkedin.com/in/zakirzazad)
 
-**[Project title 2]**: [One or two sentences describing the project and its data or method.]
+Twitter: [@zakirzazad](https://x.com/zakirzazad)
 
-News
-======
-* **[Month Year]**: [e.g. Paper accepted at Journal Name]
-* **[Month Year]**: [e.g. Presenting at Conference Name]
-
-Contact
-======
-[your.email@university.edu]
+Google Scholar: [Zakir Rzazade](https://scholar.google.com/citations?user=GI0ryAUAAAAJ&hl=en)
