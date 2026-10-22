@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Zakir Rzazade"
 author_profile: true
 redirect_from: 
   - /about/
