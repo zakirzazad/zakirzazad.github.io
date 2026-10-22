@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+title                    : "[Your Name]"name                     : &name "[Your Name]"description              : &description "Personal academic website of [Your Name]"url                      : https://zakirzazad.github.iorepository               : "zakirzazad/zakirzazad.github.io"  name             : "[Your Name]"  bio              : "[PhD candidate / Researcher] in [field]"  location         : "[City, Country]"  employer         : "[Your University]"  email            : "[your.email@university.edu]"  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_ID"  orcid            : # "https://orcid.org/0000-0000-0000-0000"  pubmed           : # URL  github           : "zakirzazad"  bluesky          : # Replace this with your Bluesky username# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
